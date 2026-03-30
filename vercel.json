@@ -3,11 +3,5 @@
     "api/contactform.go": {
       "runtime": "vercel-go@3.x"
     }
-  },
-  "routes": [
-    {
-      "src": "/api/contact",
-      "dest": "/api/contactform.go"
-    }
-  ]
+  }
 }
